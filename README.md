@@ -18,5 +18,8 @@ $ conda env create -f base.yaml
 $ jupyter notebook
 ```
 
+## Additional Resources
+- [How scientists measure global temperature](https://www.carbonbrief.org/explainer-how-do-scientists-measure-global-temperature)
+
 ## License
 The contents of this repository are covered under the [GNU General Public License v3.0](https://github.com/evanchen13/weather-trends/blob/master/COPYING).
