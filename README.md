@@ -10,7 +10,7 @@ In this analysis, I examine global weather data and compare it to weather data f
 - Scipy
 
 ## Installation
-To get the Jupyter Notebook running, execute the following in the command line and select `weather-trends.ipynb` from the Jupyter Notebook dashboard. The conda environment setup is optional; I have provided the base environment in a YAML file.
+To get the Jupyter Notebook running, execute the following in the command line and select `weather-trends.ipynb` from the Jupyter Notebook dashboard. The conda environment setup is optional; I have provided the base environment in `base.yaml`.
 ```
 $ git clone https://github.com/evanchen13/weather-trends.git
 $ cd weather-trends
